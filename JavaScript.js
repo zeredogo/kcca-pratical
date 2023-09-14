@@ -1,1 +1,1 @@
-let num =
+let num = 10;
