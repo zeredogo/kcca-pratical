@@ -333,7 +333,7 @@ img {
     padding: 4rem;
 }
 
-/* Tablets and under */
+/* Tablets and under */ 
 @media (max-width: 768px) {
   .grid,
   .showcase .grid,
@@ -359,8 +359,8 @@ img {
     grid-column: 1;
     grid-row: 1;
 }
-}
-/* Mobile */
+} 
+/* Mobile  */
 @media (max-width:500px) {
     .navbar{
         height: 110px;
