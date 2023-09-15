@@ -1,3 +1,3 @@
 let num = 10;
 
-if(num 
+if(num >= 9)
