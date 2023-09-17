@@ -3,6 +3,6 @@ let num = 10;
 if(num >= 9){
     return true
 }else {
-    return fa
+    return fal
 
     }
