@@ -5,5 +5,5 @@ if(num >= 9){
 }else {
     return false
 }
-for 
+for (i,
     }
