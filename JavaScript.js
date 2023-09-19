@@ -5,4 +5,4 @@ if(num >= 9){
 }else {
     return false
 }
-for (i, i>1, i+
+for (i, i>1, i++
