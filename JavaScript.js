@@ -1,4 +1,5 @@
 let num = 10;
+let car ='toyota';
 
 if(num >= 9){
     return true
