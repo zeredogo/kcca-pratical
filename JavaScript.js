@@ -3,6 +3,7 @@ let num = 10;
 let car ='toyota';
 
 car = 'Honda';
+car= 'BMW';
 
 if(num >= 9){
     return true
