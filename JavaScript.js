@@ -6,5 +6,5 @@ if(num >= 9){
     return false
 };
 for(i, i>1, i++) {
-    return 
+    return i
     }
