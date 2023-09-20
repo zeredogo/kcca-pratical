@@ -4,6 +4,7 @@ let car ='toyota';
 
 car = 'Honda';
 car= 'BMW';
+car = 'Benz';
 
 if(num >= 9){
     return true
