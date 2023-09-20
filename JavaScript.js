@@ -14,3 +14,5 @@ if(num >= 9){
 for(i, i>1, i++) {
     return i
     }
+
+console.log(car);
